@@ -2,7 +2,6 @@
 # - package API (to examplesdir? subpkg?)
 %define		codename	community
 %define		ver		%(echo %{version} | tr . _)
-%include	/usr/lib/rpm/macros.java
 Summary:	A New Java/UML Object-Oriented Design Tool
 Summary(pl.UTF-8):	Narzędzie wspomagające projektowanie oprogramowania w UML
 Name:		jude
